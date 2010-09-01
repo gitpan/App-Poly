@@ -16,7 +16,7 @@ App::Poly - A meta-social network interface
 
 =head1 VERSION
 
-version 0.001
+version v0.002
 
 =head1 AUTHOR
 

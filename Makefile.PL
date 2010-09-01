@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'App::Poly',
   'PREREQ_PM' => {},
-  'VERSION' => '0.001',
+  'VERSION' => 'v0.002',
   'test' => {
     'TESTS' => 't/*.t'
   }
